@@ -1,4 +1,4 @@
-```python
+python
 import streamlit as st
 import pandas as pd
 import joblib
@@ -312,4 +312,3 @@ with feature3:
 
 st.write("")
 st.caption("Ford Car Price Predictor | Machine Learning Project")
-```
